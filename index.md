@@ -1,11 +1,7 @@
-# Hello
-# Ya'at'eeh 
 # Konnichiwa
--------------------------
+-----------------------------
 
-### My name is Abby
-### Shi eh Abby yinishye
-### Watashi wa Abby desu
+Hello my name is Abby and I live in Iwakuni, Japan. Since living here, I've been able to explore Japan, which has been an amazing experience. Here are a few places my husband and I have traveled to so far.
 
-------------------------
-Above is a greeting and introduction in English, Navajo and Japanese. 
+### *Iwakuni Castle*
+![iwakuni castle](
