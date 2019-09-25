@@ -8,5 +8,4 @@
 ### Watashi wa Abby desu
 
 ------------------------
-
-Hello everyone, my name is Abby and I currently live in Iwakuni Japan. 
+Above is a greeting and introduction in English, Navajo and Japanese. 
