@@ -15,3 +15,5 @@ And hiking to amazing sights
 
 ![budda](budda.jpg)
 ![cave](cave.jpg)
+
+[Home](index.md)
