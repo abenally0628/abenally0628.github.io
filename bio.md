@@ -7,12 +7,12 @@ This is a picture of Navajo Mountain, located near my grandparent's home in Kaib
 
 ## Also located near the Navajo Reservation is:
 
-### *Antelope Canyon Page, AZ*
++ ### *Antelope Canyon Page, AZ*
 
 ![antcan1](antelopecan.jpg)
 ![antcan2](antcan3.jpg)
 
-### *Grand Canyon*
++ ### *Grand Canyon*
 
 ![grancan](grandcanyon.jpg)
 ![grancan2](grandcanyon2.jpg)
