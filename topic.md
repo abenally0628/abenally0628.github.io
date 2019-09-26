@@ -17,3 +17,4 @@ And hiking to amazing sights
 ![cave](cave.jpg)
 
 [Home](index.md)
+[Where I am From](bio.md)
