@@ -1,4 +1,4 @@
-#Where I Am From
+# Where I Am From
 
 I am Native American of the Navajo tribe, originally from the Navajo Reservation in Arizona.
 This is a picture of Navajo Mountain, located near my grandparent's home in Kaibeto, AZ where I am from.
