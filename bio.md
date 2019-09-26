@@ -7,5 +7,6 @@ Also located near the Navajo Reservation is:
 
 ### **Antelope Canyon near Page, AZ**
 
-![antcan1](antelopecanyon.jpg)
-![antcan2](antcan.jpg)
+![antcan1](antelopecan.jpg)
+![antcan2](antcan3.jpg)
+![antcan3](antcan2(2).jpg)
