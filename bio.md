@@ -16,3 +16,5 @@ This is a picture of Navajo Mountain, located near my grandparent's home in Kaib
 
 ![grancan](grandcanyon.jpg)
 ![grancan2](grandcanyon2.jpg)
+
+[Home](index.md)
