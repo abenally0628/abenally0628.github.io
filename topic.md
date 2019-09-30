@@ -7,11 +7,16 @@
 ![fish2](fishing2.jpg)
 ![fish3](fishteeth.jpg)
 
-### We also have fun bowling
+### We even had the chance to go sea fishing!
+
+![fish4](fishing3.jpg)
+![fish5](fishing4.jpg)
+
+### We also have fun bowling,
 
 ![bowling](bowling.jpg)
 
-### And hiking to amazing sights
+### And hiking to amazing sights.
 
 ![budda](budda.jpg)
 ![cave](cave.jpg)
