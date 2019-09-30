@@ -7,7 +7,7 @@
 ![fish2](fishing2.jpg)
 ![fish3](fishteeth.jpg)
 
-### We even had the chance to go sea fishing!
+### We even had the chance to go deep sea fishing!
 
 ![fish4](fish3.jpeg)
 ![fish5](fish4.jpeg)
