@@ -1,6 +1,6 @@
 # Konnichiwa     | Ya'at'eeh   | Hello
 -----------------------------
-+ ## **[Where I Am From](bio.md)**
++ ## **[Where I'm From](bio.md)**
 + ## **[Interests](topic.md)** 
 -----------------------------
 
