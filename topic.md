@@ -9,8 +9,8 @@
 
 ### We even had the chance to go sea fishing!
 
-![fish4](fishing3.jpeg)
-![fish5](fishing4.jpeg)
+![fish4](fish3.jpeg)
+![fish5](fish4.jpeg)
 
 ### We also have fun bowling,
 
